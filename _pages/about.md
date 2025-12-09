@@ -3,6 +3,10 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+A Technical University of Kenya graduate with a Bachelor of Arts in Economics, coupled with certifications in CPA, AWS Cloud Practitioner, and CCNA, brings a strong foundation in finance and IT operations. 
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Contributed as a Direct Sales Agent at Jamii Telecommunications Ltd, focusing on customer acquisition and service delivery.  
+
+Previously supported internal audit processes at the Kenya Revenue Authority, enhancing organizational compliance and financial controls. 
+
+Core competencies include finance management, IT systems operations, and a focus on leveraging technology for organizational growth. 
