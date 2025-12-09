@@ -7,9 +7,9 @@ tags: [xss,sql-injection]
 
 Let's explore cybersecurity in this post
 
-##XSS
+## XSS
 This is a cross-site scripting attack.
 
-##SQL-Injection
+## SQL-Injection
 As an example, it can occur when an unsanitized user input is used to pass malicious code to the database
 
