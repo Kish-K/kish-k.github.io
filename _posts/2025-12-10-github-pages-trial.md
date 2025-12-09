@@ -3,6 +3,10 @@ title: "This is just a trial!"
 last modified at: 2025-12-10 12:13:00 +0300
 categories: [cybersec, web]
 tags: [xss,sql-injection]
+image:
+path: /assets/images/cross-site-scripting-xss.png
+width: 1200
+height: 600
 ---
 
 Let's explore cybersecurity in this post
