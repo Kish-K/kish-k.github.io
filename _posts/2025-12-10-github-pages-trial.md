@@ -9,6 +9,7 @@ Let's explore cybersecurity in this post
 
 ## XSS
 This is a cross-site scripting attack.
+![Example](/assets/images/cross-site-scripting-xss.png) (: width="600")
 
 ## SQL-Injection
 As an example, it can occur when an unsanitized user input is used to pass malicious code to the database
