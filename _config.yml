@@ -68,7 +68,7 @@ author:
       icon: "fas fa-fw fa-link"
       url: "https://kish-k.github.io/"  
     - label: "X"
-      icon: "fab fa-fw fa-x"
+      icon: "fab fa-fw fa-twitter-square"
       url: "https://x.com/Kishkreezy/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
